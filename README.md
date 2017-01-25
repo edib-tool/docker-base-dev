@@ -1,4 +1,4 @@
-# FROM edib/base-dev:3.4
+# FROM edib/base-dev:3.5
 
 Base development image.
 
