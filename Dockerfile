@@ -1,4 +1,4 @@
-FROM edib/base-alpine:3.5
+FROM edib/base-alpine:3.6
 MAINTAINER Christoph Grabo <edib@markentier.com>
 
 RUN apk --no-cache upgrade && apk --no-cache add \
